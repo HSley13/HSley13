@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsley13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsley13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsley13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api?username=hsley13&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hsley13&theme=dark&hide_border=false)<br/>
 
 
