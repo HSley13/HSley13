@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sley HORTES</h1>
 <h3 align="center">"Hello there, I'm a dedicated explorer navigating the intricate realms of computer science. With a passion for unraveling the mysteries of algorithms and the elegance of code, I thrive on the perpetual quest for innovation. Through the artistry of programming, I sculpt solutions to challenges, constantly expanding my repertoire of skills and knowledge. Join me in the journey of discovery, where every line of code is a step towards shaping the future."</h3>
 
-- 🔭 I’m currently learning R and working on The IBM Data Analytics Course.
+- 🔭 I’m currently learning R and working on The IBM Data Science Course.
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
