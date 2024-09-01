@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sley HORTES</h1>
 <h3 align="center">"Welcome to my Github account"</h3>
 
-- 🔭 I’m currently learning R and working on The IBM Data Science Course.
+- 🔭 I’m currently working on The IBM Data Science Course.
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
