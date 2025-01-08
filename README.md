@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋🏾, I'm Sley HORTES</h1>
 <h3 align="center">"Welcome to my Github account"</h3>
 
-- 🔭 I’m currently working on The IBM Data Science Course.
+- 🔭 I’m currently working on My Sphera Project.
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 💬 Ask me about **Qt FrameWork**
+- 💬 Ask me about **Qt/QML FrameWork**
 
 - 📫 How to reach me **sleyhortes13@gmail.com**
 
