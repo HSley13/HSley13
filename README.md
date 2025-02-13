@@ -1,4 +1,4 @@
-[![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
+![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 <h3 align="center">"Welcome to my Github account"</h3>
 
 # 📊 GitHub Stats:
